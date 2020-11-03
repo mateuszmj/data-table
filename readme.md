@@ -13,7 +13,7 @@ The system retrieves data from provided API, processes it and renders a responsi
 <br>
 <h3>2. Live example</h3>
 
-You can test working system on the website **[www.mateusz.nanoq.pl/table](http://mateusz.nanoq.pl/table "www.mateusz.nanoq.pl/table")**
+You can test working system on the website **[mateusz.io/table](http://mateusz.nanoq.pl/table "mateusz.io/table")**
 
 <br>
 <h3>3. Technologies</h3>
