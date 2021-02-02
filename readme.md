@@ -13,7 +13,7 @@ The system retrieves data from provided API, processes it and renders a responsi
 <br>
 <h3>2. Live example</h3>
 
-You can test working system on the website **[mateusz.io/table](http://mateusz.nanoq.pl/table "mateusz.io/table")**
+You can test working system on the website **[mateusz.io/table](http://mateusz.io/table "mateusz.io/table")**
 
 <br>
 <h3>3. Technologies</h3>
@@ -29,35 +29,35 @@ Project was made using the following technologies:
 **a. Number of records on a single page**
 <br>The system allows to select 20, 50 or 100 records that will be displayed on single page of the table.
 
-![Number of records on page](http://mateusz.nanoq.pl/table/imgs/num-records.png "Number of records on page")
+![Number of records on page](http://mateusz.io/table/imgs/num-records.png "Number of records on page")
 
 **b. Instant search of records in the table**
 <br>The system allows to quickly filter all records, by any field in the table.
 
-![Filter records in the table](http://mateusz.nanoq.pl/table/imgs/filter.png "Filter records in the table")
+![Filter records in the table](http://mateusz.io/table/imgs/filter.png "Filter records in the table")
 
 **c. Sorting table records by any column**
 <br>By default, table shows the latest records, sorting it descending by ID.
 <br>By clicking on the selected field of the upper table bar, you can change the sorting according to any column.
 <br>Clicking once enables ascending sorting (ASC), clicking the second time activates descending sorting (DESC).
 
-![Sorting table records](http://mateusz.nanoq.pl/table/imgs/sort.png "Sorting table records")
+![Sorting table records](http://mateusz.io/table/imgs/sort.png "Sorting table records")
 
 **d. Pagination**
 <br>The system allows to change table pages by clicking the Previous and Next buttons or selecting a page.
 
-![Pagination](http://mateusz.nanoq.pl/table/imgs/pagination.png "Pagination")
+![Pagination](http://mateusz.io/table/imgs/pagination.png "Pagination")
 
 **e. Current number of records in the table**
 <br>Current number of records on the page and the number of all records in the table are displayed at the bottom of the table.
 
-![Number of records in table](http://mateusz.nanoq.pl/table/imgs/entries.png "Number of records in table")
+![Number of records in table](http://mateusz.io/table/imgs/entries.png "Number of records in table")
 
 **f. Responsive web design (RWD)**
 <br>The table is correctly displayed on desktop computers, tablets and smartphones.
 <br>If the screen of the mobile device is small and the table does not fit completely, you can easily slide it with one finger.
 
-![Responsive web design](http://mateusz.nanoq.pl/table/imgs/rwd.png "Responsive web design")
+![Responsive web design](http://mateusz.io/table/imgs/rwd.png "Responsive web design")
 
 <br>
 <h3>5. System installation</h3>
